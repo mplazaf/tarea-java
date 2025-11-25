@@ -1,4 +1,4 @@
-MIGUEL ANGEL ENRIQUE PLAZA FERNANDEZ 202473058-4
+
 -Se agrega el atributo boolean estaEnlaNave
 -Consideración: ¿Que pasa si se pone una profundidad
 de anclaje mayor a la zona? ¿hay que validar? Ver en main
@@ -28,4 +28,5 @@ seleccionar un recurso.
 -Se esta asumiendo que el elegir destino para ir a alguna zona te lleva a la prof minima de la zona.
 -Se entiende que si no se tiene modulo profundidad, la nave no puede ser anclada a más de 500 m .
 -Se quizo implementar que si se intenta anclar la nave a una profundidad que quede en una Zona
+
 distinta solo se le niegue la opción al jugador.
